@@ -5,7 +5,15 @@
         "Marca": "NIKE",
         "Preço": "250",
         "Quantidade": "25",
-        "Disponivel": true
+        "Disponivel": true,
+
+        "Fabricante":{
+            "Fabrica": "China",
+            "tecido": "Algudan",
+            "Orçamento": 1000.000
+
+        }
+
         
     }
 }

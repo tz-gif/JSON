@@ -3,6 +3,13 @@
         "Nome": "Davi",
         "idade": "17",
         "Notas": "100",
-        "Aprovado": true
+        "Aprovado": true, 
+         "Cursos": ["Excel", "Desvendando a industria","Segurança no trablhos"],
+
+         "Professores":{
+            "mestre01": "Eduardo Falabela",
+            "mestre02": "Wiliam Belarmino"
+         }
+
     }
 }

@@ -5,7 +5,8 @@
         "Ano":2019,
         "Diretor": "Jon Watts",
         "Genero":["ficção científica", "drama", "Aventura"],
-        "Personagens":{
+
+        "PersonagensPrincipal":{
             "Nome": "PETER", 
             "Ator": "tobey maguire"  
         }
