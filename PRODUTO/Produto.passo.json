@@ -1,0 +1,11 @@
+{
+    "Produto":{
+        "Vesti": "Camisa",
+        "Ano": "2026",
+        "Marca": "NIKE",
+        "Preço": "250",
+        "Quantidade": "25",
+        "Disponivel": true
+        
+    }
+}

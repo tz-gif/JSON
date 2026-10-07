@@ -1,0 +1,17 @@
+{
+
+    "FilmeFAVORITO":{
+        "titulo": "Homem-Aranha: Longe de Casa",
+        "Ano":2019,
+        "Diretor": "Jon Watts",
+        "Genero":["ficção científica", "drama", "Aventura"],
+        "Personagens":{
+            "Nome": "PETER", 
+            "Ator": "tobey maguire"  
+        }
+
+        
+
+    }
+
+}
